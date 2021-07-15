@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @tudoraster
+- 👀 I’m interested in computer science.
+- 🌱 I’m currently learning java, C#, python.
+- 📫 How to reach me: go on my website tudormatei.ro
