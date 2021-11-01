@@ -21,7 +21,7 @@
     <a href="https://www.blender.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/blender-3d.png"/></a>
     <a href="https://www.office.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/microsoft-office-2019.png"/></a>
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/></a>
-    <a href="https://unity.com/" target="_blank"> <img src="https://img.icons8.com/ios-filled/48/000000/flask.png"/></a>
+    <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank"> <img src="https://img.icons8.com/ios-filled/48/000000/flask.png"/></a>
 </p>
 <br/>
 
