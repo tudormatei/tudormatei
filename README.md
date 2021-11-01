@@ -28,7 +28,7 @@
 
 
   <br/>
-  <a href="https://github.com/tudoraster?tab=repositories"><img alt="Tudoraster's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tudoraster&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/tudoramtei?tab=repositories"><img alt="Tudor Matei's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tudormatei&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
@@ -36,7 +36,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/tudoraster?tab=repositories"><img alt="Tudoraster's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=tudoraster&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/tudormatei?tab=repositories"><img alt="Tudor Matei's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=tudormatei&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
