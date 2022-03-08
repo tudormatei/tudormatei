@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Tensorflow and Machine Learning**
 
-- 👨‍💻 You can find my project on **[My Website](https://tudormatei.ro/)**
+- 👨‍💻 You can find my projects on **[My Website](https://tudormatei.ro/)**
 
 - 📫 How to reach me **tudormatei010@gmail.com**
 
