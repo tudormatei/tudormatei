@@ -35,8 +35,3 @@
 
 <br/>
 <br/>
-
-<a href="https://github.com/tudormatei?tab=repositories"><img alt="Tudor Matei's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=tudormatei&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
-<br/>
