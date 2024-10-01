@@ -24,7 +24,7 @@
     <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank"> <img width="48" height="48" src="https://img.icons8.com/color/48/c-plus-plus-logo.png" alt="c++"/></a>
     <a href="https://en.wikipedia.org/wiki/Assembly_language" target="_blank"> <img width="48" height="48" src="https://img.icons8.com/color/48/assembly.png" alt="assembly"/></a>
     <a href="https://www.linux.org/" target="_blank"> <img width="48" height="48" src="https://img.icons8.com/color/48/linux--v1.png" alt="linux"/></a>
-    <a href="https://reactnative.dev/" target="_blank"> <img width="64" height="64" src="https://img.icons8.com/nolan/64/react-native.png" alt="react-native"/> </a>
+    <a href="https://reactnative.dev/" target="_blank"> <img width="48" height="48" src="https://img.icons8.com/nolan/64/react-native.png" alt="react-native"/> </a>
     <a href="https://react.dev/" target="_blank"> <img width="48" height="48" src="https://img.icons8.com/color/48/react-native.png" alt="reactjs"/>> </a>
     <a href="https://www.javascript.com/" target="_blank"> <img src="https://icons8.com/icon/108784/javascript"/> </a>
     <a href="https://reactjs.org/" target="_blank"> <img src="https://icons8.com/icon/asWSSTBrDlTW/react-a-javascript-library-for-building-user-interfaces"/> </a>
