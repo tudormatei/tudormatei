@@ -10,7 +10,7 @@
 
 ## 🚀 Languages and Tools:
 
-<p align="left"> 
+<div align="left"> 
 <!--     Backend -->
     <a href="https://www.java.com" target="_blank"> <img width="48" height="48" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java"/> </a>
     <a href="https://spring.io/projects/spring-boot" target="_blank"> <img width="48" height="48" src="https://img.icons8.com/color/48/spring-logo.png" alt="spring-logo"/> </a>
@@ -34,7 +34,7 @@
     <a href="https://www.blender.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/blender-3d.png"/></a>
     <a href="https://www.office.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/microsoft-office-2019.png"/></a>
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/></a>
-</p>
+</div>
 <br/>
 
 
