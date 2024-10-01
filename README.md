@@ -10,7 +10,7 @@
 
 ## 🚀 Languages and Tools:
 
-<div align="left"> 
+<div align="center"> 
 <!--     Backend -->
     <a href="https://www.java.com" target="_blank"> <img width="48" height="48" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java"/> </a>
     <a href="https://spring.io/projects/spring-boot" target="_blank"> <img width="48" height="48" src="https://img.icons8.com/color/48/spring-logo.png" alt="spring-logo"/> </a>
