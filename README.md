@@ -1,14 +1,10 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Tudor</h1>
+<h1 align="center">Tudor Matei</h1>
 
-## 🙋‍♂️ About Me
+- You can find my projects on **[My Website](https://tudormatei.ro/)**
 
-- 🌱 I’m currently learning **Tensorflow and Machine Learning**
+- How to reach me **tudormatei010@gmail.com**
 
-- 👨‍💻 You can find my projects on **[My Website](https://tudormatei.ro/)**
-
-- 📫 How to reach me **tudormatei010@gmail.com**
-
-## 🚀 Languages and Tools:
+## Languages and Tools:
 
 <div align="center">
   <a href="https://www.java.com" target="_blank" style="text-decoration: none; color: inherit;"> <img width="48" height="48" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java"/> </a>
