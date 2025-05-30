@@ -14,6 +14,7 @@
   <a href="https://www.docker.com/" target="_blank" style="text-decoration: none; color: inherit;"> <img width="48" height="48" src="https://img.icons8.com/fluency/48/docker.png" alt="docker"/> </a>
   <a href="https://www.python.org" target="_blank" style="text-decoration: none; color: inherit;"> <img src="https://img.icons8.com/color/48/000000/python.png" alt="python"/> </a>
   <a href="https://www.tensorflow.org/" target="_blank" style="text-decoration: none; color: inherit;"> <img src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="tensorflow"/></a>
+  <a href="https://www.djangoproject.com/" target="_blank" style="text-decoration: none; color: inherit;"> <img src="https://img.icons8.com/?size=100&id=XPdRFanRZtNK&format=png&color=000000" alt="django"/></a>
   <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" style="text-decoration: none; color: inherit;"> <img src="https://img.icons8.com/ios-filled/48/000000/flask.png" alt="flask"/></a>
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" style="text-decoration: none; color: inherit;"> <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="c#"/></a>
   <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank" style="text-decoration: none; color: inherit;"> <img width="48" height="48" src="https://img.icons8.com/color/48/c-plus-plus-logo.png" alt="c++"/></a>
