@@ -22,6 +22,7 @@
   <a href="https://www.linux.org/" target="_blank" style="text-decoration: none; color: inherit;"> <img width="48" height="48" src="https://img.icons8.com/color/48/linux--v1.png" alt="linux"/></a>
   <a href="https://reactnative.dev/" target="_blank" style="text-decoration: none; color: inherit;"> <img width="48" height="48" src="https://img.icons8.com/nolan/64/react-native.png" alt="react-native"/> </a>
   <a href="https://react.dev/" target="_blank" style="text-decoration: none; color: inherit;"> <img width="48" height="48" src="https://img.icons8.com/color/48/react-native.png" alt="reactjs"/></a>
+  <a href="https://nextjs.org/" target="_blank" style="text-decoration: none; color: inherit;"> <img width="48" height="48" src="https://img.icons8.com/?size=100&id=yUdJlcKanVbh&format=png&color=000000" alt="nextjs"/></a>
   <a href="https://www.typescriptlang.org/" target="_blank" style="text-decoration: none; color: inherit;"> <img width="48" height="48" src="https://img.icons8.com/color/48/typescript.png" alt="typescript"/> </a>
   <a href="https://www.javascript.com/" target="_blank" style="text-decoration: none; color: inherit;"> <img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript"/> </a>
   <a href="https://www.w3.org/html/" target="_blank" style="text-decoration: none; color: inherit;"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
