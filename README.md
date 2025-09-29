@@ -32,15 +32,3 @@
   <a href="https://www.office.com/" target="_blank" style="text-decoration: none; color: inherit;"> <img src="https://img.icons8.com/color/48/000000/microsoft-office-2019.png"/></a>
   <a href="https://git-scm.com/" target="_blank" style="text-decoration: none; color: inherit;"> <img src="https://img.icons8.com/color/48/000000/git.png"/></a>
 </div>
-<br/>
-
-
-
-  <br/>
-  <a href="https://github.com/tudormatei?tab=repositories"><img alt="Tudor Matei's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tudormatei&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-
-<br/>
-<br/>
